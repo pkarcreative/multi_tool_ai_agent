@@ -1,4 +1,4 @@
-# Search AI Agent
+# Multi tool AI Agent
 
 A powerful AI agent built with LangChain and LangGraph that can perform web searches, get weather information, and provide intelligent responses using OpenAI's GPT-4o-mini model.
 
