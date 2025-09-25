@@ -102,4 +102,3 @@ for step in agent_executor.stream(
     {"messages": [input_message]}, config, stream_mode="values"
 ):
     step["messages"][-1].pretty_print()
-
